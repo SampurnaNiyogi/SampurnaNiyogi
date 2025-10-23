@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m **Sampurna Niyogi**
 
-<!--
-**SampurnaNiyogi/SampurnaNiyogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m passionate about building intelligent systems and scalable backend solutions.  
+💡 Exploring the intersection of **AI, automation, and backend engineering** to create impactful software.
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- 🧠 Develop AI-driven and data-centric applications  
+- ⚙️ Build efficient backend APIs and cloud-integrated systems  
+- 📚 Constantly learning and experimenting with new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## 🛠️ Tech Stack
+`Python` | `FastAPI` | `Django` | `MongoDB` | `Firebase` | `C` | `Vite` | `MySQL`
+
+## 🌱 Currently Exploring
+- Advanced backend architecture patterns  
+- AI integration in real-world applications
