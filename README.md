@@ -10,7 +10,7 @@
 
   
 ## 🛠️ Tech Stack
-`Python` | `FastAPI` | `Django` | `MongoDB` | `Firebase` | `C` | `Vite` | `MySQL`
+`Python` | `Java` | `FastAPI` | `Django` | `SpringBoot` | `MongoDB` | `Firebase` | `C` | `Vite` | `MySQL`
 
 ## 🌱 Currently Exploring
 - Advanced backend architecture patterns  
