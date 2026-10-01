@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:24404f&height=150&section=header&text=Sampurna%20Niyogi&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42" alt="Sampurna Niyogi">
 
-<img align="right" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775235_640.png" width="300" alt="Female programmer">
+<img align="left" src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775235_640.png" width="300" alt="Female programmer">
 
 <h3>AI/ML Engineer · Backend Developer</h3>
 
@@ -24,7 +24,7 @@
   <a href="https://portfoliotech-one.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Portfolio">
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://leetcode.com/u/SampurnaNiyogi/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="32" alt="LeetCode">
   </a>
 </p>
@@ -43,12 +43,23 @@ I work on projects involving APIs, databases, automation, and machine learning, 
 
 ## What I Build
 
-- Backend APIs and services
-- AI/ML applications
-- Automation tools
-- Database-driven applications
-- Full-stack projects
-- Developer and productivity tools
+<table width="100%">
+  <tr>
+    <td width="60%" align="left" valign="middle">
+      <ul>
+        <li><h3>Backend APIs and services</h3></li>
+        <li><h3>AI/ML applications</h3></li>
+        <li><h3>Automation tools</h3></li>
+        <li><h3>Database-driven applications</h3></li>
+        <li><h3>Full-stack projects</h3></li>
+        <li><h3>Developer and productivity tools</h3></li>
+      </ul>
+    </td>
+    <td width="40%" align="right" valign="middle">
+      <img src="https://img.magnific.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306558.jpg?semt=ais_hybrid&w=740&q=80" width="100%" alt="Working woman illustration">
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Tech Stack</h2>
 
